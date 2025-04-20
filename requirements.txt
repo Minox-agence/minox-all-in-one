@@ -1,0 +1,14 @@
+requests
+beautifulsoup4
+ipwhois
+python-whois
+psutil
+socket
+PyQt5
+threading
+termcolor
+os
+random
+string
+shutil
+time
