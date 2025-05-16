@@ -9,6 +9,10 @@ Minox-Agence est un projet développé en Python, regroupant plusieurs outils de
 ## ⚠️ Avertissement  
 Ce programme est **strictement à usage éducatif**. Son utilisation doit respecter les lois en vigueur. **L’auteur ne peut être tenu responsable d’une mauvaise utilisation de cet outil.**  
 
+📂 Prérequis
+
+✔ Python 3.x → Assurez-vous d’avoir une version récente installée. ✔ Modules nécessaires → Listés dans requirements.txt. ✔ Accès administrateur → Certains scripts nécessitent des permissions élevées.
+
 ## 🚀 Installation  
 1️⃣ **Clonez le dépôt GitHub**  
 ```bash
