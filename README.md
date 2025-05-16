@@ -17,6 +17,7 @@ Ce programme est **strictement à usage éducatif**. Son utilisation doit respec
 
 💡 Tracking IP → Obtiens des infos détaillées sur une adresse IP. 💡 Bruteforce → Teste la robustesse des mots de passe avec différentes attaques. 💡 OSINT → Collecte d’informations publiques sur une cible. 💡 Analyse réseau → Capture et inspection de paquets pour détecter d’éventuelles failles.
 
+## Retrouver notre site sur https://minox-agence.netlify.app/
 
 📂 Prérequis
 ✔ Python 3.x → Assurez-vous d’avoir une version récente installée. ✔ Modules nécessaires → Listés dans requirements.txt. ✔ Accès administrateur → Certains scripts nécessitent des permissions élevées.
@@ -26,4 +27,3 @@ Ce programme est **strictement à usage éducatif**. Son utilisation doit respec
 ```bash
 git clone https://github.com/Minox-agence/minox-all-in-one.git
 
-retrouver notre site sur https://minox-agence.netlify.app/
